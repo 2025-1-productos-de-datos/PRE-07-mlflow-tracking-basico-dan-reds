@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/PRODUCTOS_DATOS/PRE-07-mlflow-tracking-basico-dan-reds/mlruns/370669430888648421/3ed3720c79414c59ade8d1706bfe40bf/artifacts
+end_time: 1748096874977
+entry_point_name: ''
+experiment_id: '370669430888648421'
+lifecycle_stage: active
+run_id: 3ed3720c79414c59ade8d1706bfe40bf
+run_name: elasticnet_644f8e93
+run_uuid: 3ed3720c79414c59ade8d1706bfe40bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748096870673
+status: 3
+tags: []
+user_id: danie
